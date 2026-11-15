@@ -1,0 +1,28 @@
+{
+  "title": "Bank Model Test 1",
+  "description": "Optional one-line description shown on the exam info page.",
+  "duration": 60,
+  "marksPerQuestion": 1,
+  "negativeMarking": 0.25,
+  "cutMark": 40,
+  "instructions": [
+    "Each question has one correct answer.",
+    "The exam is submitted automatically when time ends."
+  ],
+  "questions": [
+    {
+      "subject": "English",
+      "q": "Choose the correct synonym of 'rapid'.",
+      "options": ["Slow", "Quick", "Late", "Weak"],
+      "answer": 1,
+      "explanation": "Optional. Shown in the review after submitting."
+    },
+    {
+      "subject": "General Mathematics",
+      "q": "What is 15% of 200?",
+      "options": ["20", "25", "30", "35"],
+      "answer": 2
+    },
+    ["Short form: question, options, answer (counting from 0), explanation, subject", ["A", "B", "C", "D"], 0, "Optional note", "Basic Knowledge on ICT"]
+  ]
+}
